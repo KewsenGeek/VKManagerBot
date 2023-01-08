@@ -1,0 +1,3 @@
+vk_api
+BeautifulSoup4
+requests
